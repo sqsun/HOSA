@@ -71,7 +71,7 @@ Subgroup analysis via Alternating Direction Method of Multipliers (ADMM) algorit
 
 > admm_iter <- 1000
 > em_iter = 1000
->tol <- 1e-3
+> tol <- 1e-3
 > res_path <- "./"
 
 > res_admm <- subG_ADMM_extension(y, X, as.matrix(W), t(Z1), init_Eta1, lambda, admm_iter, tol)

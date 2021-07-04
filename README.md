@@ -6,7 +6,7 @@ Subgroup analysis via Alternating Direction Method of Multipliers (ADMM) algorit
 ### install devtools packages (devtools package) if not installed
 > install.packages("devtools")
 
-### install MOMF package
+### install HOSA package
 > devtools::install_github("sqsun/HOSA")
 > library(HOSA)
 ```

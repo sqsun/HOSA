@@ -1,18 +1,17 @@
 # HOSA
-Subgroup analysis using ADMM and EM
+Subgroup analysis via Alternating Direction Method of Multipliers (ADMM) algorithm and statistical inference on subgroup effects via Expectation-Maximization (EM) algorithm
 
 ## Installation
 ```R
 ### install devtools packages (devtools package) if not installed
-install.packages("devtools")
+> install.packages("devtools")
 
 ### install MOMF package
-devtools::install_github("sqsun/HOSA")
+> devtools::install_github("sqsun/HOSA")
+> library(HOSA)
 ```
 
-### load HOSA package
-> library(HOSA)
-
+## An example -- HOSA package
 ```R
 ### generate an example data to testing
 > num_sample <- 200

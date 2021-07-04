@@ -88,4 +88,4 @@ Subgroup analysis via Alternating Direction Method of Multipliers (ADMM) algorit
 
 ```
 ## Citation
-Ling Zhou, Shiquan Sun, Haoda Fu and Peter X.K. Song. *Subgroup-effects models for the analysis of personal treatment effects*. Annal of Applied Statistics, 2021, in press 
+Ling Zhou, Shiquan Sun, Haoda Fu and Peter X.K. Song. *Subgroup-effects models for the analysis of personal treatment effects*. Annals of Applied Statistics, 2021, in press 

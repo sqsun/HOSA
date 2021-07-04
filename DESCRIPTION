@@ -1,0 +1,11 @@
+Package: HOSA
+Type: Package
+Title: Subgroup-effects models for the analysis of personal treatment effects
+Version: 0.1.0
+Date: 2021-07-04
+Author: Ling Zhou, Shiquan Sun, Haoda Hu, and Peter X.K. Song
+Maintainer: Shiquan Sun <sqsunsph@xjtu.edu.cn>
+Description: An approach to synergizing supervised clustering analysis via Alternating Direction Method of Multipliers (ADMM) algorithm and statistical inference on subgroup effects via Expectation-Maximization (EM) algorithm. Our proposed procedure, termed as Hybrid Operation for Subgroup Analysis (HOSA), enjoys computational speed and numerical stability with interpretability and reproducibility.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5)
+LinkingTo: Rcpp, RcppArmadillo
